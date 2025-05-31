@@ -62,8 +62,3 @@ npm run dev
 - `frontend/` - React frontend (Vite)
 - `ml/` - Machine learning models and utilities
 
-## Environment Variables
-
-- Place backend environment variables in `backend/.env` (not tracked by git)
-- Place frontend environment variables in `frontend/.env` (not tracked by git)
-
