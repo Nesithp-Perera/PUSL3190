@@ -1,0 +1,24 @@
+# Authentication and security
+passlib[bcrypt]
+
+# Database
+sqlalchemy
+databases
+
+# Machine learning
+scikit-learn
+sentence-transformers
+lime
+
+# Optimization
+ortools
+
+# File processing
+PyPDF2
+python-docx
+
+# Data analysis
+pandas
+
+# Environment variables
+python-dotenv
